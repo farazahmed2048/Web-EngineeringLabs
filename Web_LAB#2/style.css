@@ -1,0 +1,46 @@
+#log1{
+    color: rgb(33, 82, 243);
+    padding-left: 0px;
+    padding-top: 30px;
+   
+}
+
+#qwerty1{
+    background-color:black;
+}
+
+.form1{
+    width: 450px;
+    height: 450px;
+    border:5px solid black;
+    padding-left: 50px;
+    background-color: white;
+    margin-left: 450px;
+    margin-top: 60px;
+    border: none;
+}
+
+
+.fail1{
+    width: 400px;
+    height: 30px;
+    background-color: rgb(51,102,255);
+    border: none;
+    color: white;
+}
+
+.user1{
+    width: 400px;
+    height: 30px;
+}
+
+.password1{
+    width: 400px;
+    height: 30px;
+}
+
+.pass1{
+    padding-left: 280px;
+    margin-top: -15px;
+    color: rgb(33, 82, 243);
+}
